@@ -1,7 +1,7 @@
 # new feature
 # Tags: optional
     
-Feature: A description
+Feature: Login gmail with parameter
     
     Scenario Outline: login
         Given email <Email> and password <Password>
