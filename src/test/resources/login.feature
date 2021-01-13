@@ -1,7 +1,7 @@
 # new feature
 # Tags: optional
     
-Feature: A description
+Feature: Login gmail
     
     Scenario: A scenario
         Given email and password
