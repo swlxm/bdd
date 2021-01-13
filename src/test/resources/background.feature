@@ -1,7 +1,7 @@
 # new feature
 # Tags: optional
     
-Feature: A description
+Feature: Create new draft mail
     
     Background: login
         Given email and password
